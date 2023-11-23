@@ -1,5 +1,7 @@
 # PruebaDatasoft
 
+link demo (video): https://drive.google.com/drive/folders/1d1pTnlxm4OFws7-hf58LaFCbQa7fP8uk?usp=sharing
+
 Para correr proyecto react:
 instalar node, npm
 dentro de carpeta de proyecto comando: npm install (para instalar dependencias)
